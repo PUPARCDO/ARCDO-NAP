@@ -1,10 +1,10 @@
-##########
+OVPSAS-ARCDO NAP
 # collectionbuilder-gh
 # Jekyll Digital Collection Generator, designed for GitHub Pages
 # https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
 
-##########
+OVPSAS-ARCDO NAP
 # URL VARIABLES [optional if using GitHub Pages!]
 #
 # url is site domain, full URL to the production location of your collection
@@ -16,7 +16,7 @@
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 
-##########
+OVPSAS-ARCDO NAP
 # SITE SETTINGS
 #
 # title of site appears in banner
@@ -29,14 +29,14 @@ description: "CollectionBuilder-GH is a template for creating small digital coll
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
-##########
+OOVPSAS-ARCDO NAP
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 metadata: demo-metadata
 
-##########
+OVPSAS-ARCDO NAP
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
@@ -45,13 +45,13 @@ metadata: demo-metadata
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
-##########
+OVPSAS-ARCDO NAP
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
 # noindex: true 
 
-##########
+OVPSAS-ARCDO NAP
 # BUILD SETTINGS 
 #
 # Note: use environment variable on build command to include analytics
